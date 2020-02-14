@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[4]:
-
-
 funcion = lambda x: x**3 - 3*x +2
 der1 = lambda x: 3*x**2 - 3
 x0=10
